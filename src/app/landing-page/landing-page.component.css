@@ -1,0 +1,24 @@
+div {
+	height: 500px;
+	width: 100%;
+}
+
+.first-div {
+	background-color: #c3cf68;
+}
+
+.second-div {
+	background-color: #707c15;
+}
+
+.third-div {
+	background-color: #eff9a6;
+}
+
+.fourth-div {
+	background-color: #495300;
+}
+
+.fifth-div {
+	background-color: #99a637;
+}
