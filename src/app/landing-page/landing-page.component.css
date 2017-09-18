@@ -1,24 +1,32 @@
-div {
-	height: 500px;
-	width: 100%;
+div img {
+	height: 100%;
+	min-height: 200px;
+	min-width: 200px;
+	width: 15%;
 }
 
 .first-div {
-	background-color: #c3cf68;
+	background-color: #FF6A00;
 }
 
 .second-div {
-	background-color: #707c15;
+	background-color: #CDF800;
 }
 
 .third-div {
-	background-color: #eff9a6;
+	background-color: #D50078;
 }
 
 .fourth-div {
-	background-color: #495300;
+	background-color: #104BB8;
 }
 
 .fifth-div {
-	background-color: #99a637;
+	background-color: #B900B1;
+}
+
+p {
+	padding-top: 8vh;
+	font-size: 5vh;
+	float: right;
 }

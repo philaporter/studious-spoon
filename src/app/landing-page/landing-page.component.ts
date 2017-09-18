@@ -1,9 +1,10 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit } 	from '@angular/core';
 
 @Component({
   selector: 'app-landing-page',
   templateUrl: './landing-page.component.html',
-  styleUrls: ['./landing-page.component.css']
+  styleUrls: ['./landing-page.component.css'],
+  providers: []
 })
 export class LandingPageComponent implements OnInit {
 
@@ -11,5 +12,4 @@ export class LandingPageComponent implements OnInit {
 
   ngOnInit() {
   }
-
 }
