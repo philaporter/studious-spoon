@@ -1,4 +1,5 @@
 import { Component, OnInit } 	from '@angular/core';
+import { MortyComponent }       from '../morty/morty.component';
 
 @Component({
   selector: 'app-landing-page',
